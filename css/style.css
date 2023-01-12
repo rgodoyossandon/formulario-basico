@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+body{
+    background-color:antiquewhite ;
+}
+
+h1{
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration:underline;
+}
+
+
+form{
+    border-bottom: 1px solid #efefef;
+    text-align: center;
+    padding:  10px 20px;
+}
+
+label{
+    font-family: serif;
+    font-weight: bold;
+    margin: 10px;
+    color:blueviolet;
+
+}
+
+input{
+    border-radius:  7px;
+    background-color:rosybrown;
+}
+
+button{
+    color: white;
+    background-color: brown;
+    border-radius: 7px;
+    padding: 4px;
+}
+
+.btn{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.btn:hover{
+    background-color: green;
+    color: black;
+    
+}
+
+#btn:hover{
+    background-color: green;
+    color: black;
+    
+}
+
+
